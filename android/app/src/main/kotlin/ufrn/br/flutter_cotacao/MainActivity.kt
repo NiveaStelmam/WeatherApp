@@ -1,4 +1,4 @@
-package ufrn.br.flutter_cotacao
+package ufrn.br.WeatherApp
 
 import io.flutter.embedding.android.FlutterActivity
 

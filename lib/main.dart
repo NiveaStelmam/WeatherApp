@@ -2,11 +2,9 @@ import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
-import 'widgets/card_bolsa_valor.dart';
-import 'dart:convert';
 
+import 'dart:convert';
 import 'widgets/card_temp.dart';
-import 'widgets/card_moeda_item.dart';
 
 void main() {
   runApp(const MyApp());
