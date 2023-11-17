@@ -1,4 +1,4 @@
-# flutter_cotacao
+# WeatherApp
 
 A new Flutter project.
 
