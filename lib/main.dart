@@ -105,8 +105,9 @@ class _HomeMaterialState extends State<HomeMaterial> {
               child: Column(
                 mainAxisAlignment: MainAxisAlignment.start,
                 children: [
-                  CardClima(
+                  CardTemp(
                       temp: dadosClima['temp'].toString(),
+                      time: dadosClima['time'],
                       description: "${dadosClima['description']}",
                       city: "${dadosClima['city']}"),
                   const SizedBox(height: 20),
